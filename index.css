@@ -1,0 +1,258 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.all-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.frist-section {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.189), rgba(28, 24, 27, 0.73)),
+        url('./images/img6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.text {
+    text-align: center;
+    margin: auto;
+
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.pera-text {
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.bot {
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: lightblue;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.style-bottom {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.ditio-text {
+    text-align: center;
+    margin: auto;
+    font-size: 60px;
+    padding-top: 100px;
+}
+
+.ditio-pera {
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #000000;
+    text-align: center;
+}
+
+.amount {
+    display: flex;
+    padding-top: 70px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.money {
+    width: auto;
+    padding: 30px;
+    background-color: #a0a0a01a;
+    border-radius: 10px;
+    border: #ffffff solid 2px;
+    align-items: center;
+    justify-content: center;
+}
+
+.money:hover {
+    background-color: #fabcbc;
+    transition: all 0.2s ease-in-out;
+    border: 2px #f35322a2 solid;
+}
+
+.taka {
+    font-size: auto;
+    width: 500px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    border-top: none;
+    border-bottom: 1px solid gray;
+    border-left: none;
+    border-right: none;
+}
+
+.amount-of-tk {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.ano-style-bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.bot {
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.frist-part {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.text-section {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 150px;
+}
+
+.icon-part {
+    display: flex;
+    padding-left: 15px;
+}
+
+.Food {
+
+    margin-right: 10px;
+    width: auto;
+    padding: 60px 10px 35px 10px;
+    background-color: #00ffff56;
+    border-radius: 20px;
+}
+
+.Shelter {
+
+    margin-right: 10px;
+    width: auto;
+    padding: 60px 10px 35px 10px;
+    background-color: #fdb46085;
+    border-radius: 20px;
+}
+
+.Education {
+
+    margin-right: 10px;
+    width: auto;
+    padding: 60px 10px 35px 10px;
+    background-color: #fa68a086;
+    border-radius: 20px;
+}
+
+.third-section {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.third-text {
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+.bot {
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 700;
+    border: none;
+}
+
+.third-img {
+    width: 500px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.forth-section {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.forth-img {
+    width: 500px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.forth-text {
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+.update {
+    text-align: center;
+    margin: 0px 200px 0px 200px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.bo {
+    padding-bottom: 100px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 25px 50px 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #fddfc3;
+}
+
+.form-box {
+    padding: 0.1px;
+    border-radius: 5px;
+    background: #ffffff;
+}
+
+.form-box input {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background: #fcfcfc;
+}
+
+.form-box button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .3s;
+    background-color: #fa6f6f;
+}
+
+.hum {
+    padding: 40px;
+    background-color: #111111;
+    color: red;
+    text-align: center;
+}
